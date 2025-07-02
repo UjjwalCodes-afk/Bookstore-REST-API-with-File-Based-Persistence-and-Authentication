@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0eff2d70-5fd5-4820-81c4-b6b79c85bc34",
+    "title": "gulliver",
+    "author": "jack smith",
+    "genre": "adventure",
+    "publishedYear": "2010",
+    "userId": "338745a0-1670-47a3-a12b-ab100a41e986"
+  },
+  {
+    "id": "49ce263a-2df4-49b2-9a41-f7efad5ad26c",
+    "title": "Squid Games: The Escape",
+    "author": "Jack Smith",
+    "genre": "Adventure",
+    "publishedYear": "2012",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "28f5f289-a012-4bd3-9161-2840f0155bfb",
+    "title": "Squid Games: Origins",
+    "author": "Jack Smith",
+    "genre": "Adventure",
+    "publishedYear": "2008",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "607d03d8-0639-4cc0-8c75-c7361202ac70",
+    "title": "Squid Games: Underworld",
+    "author": "Emily Carter",
+    "genre": "Thriller",
+    "publishedYear": "2014",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "8761716c-b634-4f6a-8039-b490266152ff",
+    "title": "Squid Games Illustrated",
+    "author": "Jack Smith",
+    "genre": "Graphic Novel",
+    "publishedYear": "2011",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "673b3ef4-05f7-451a-ab92-490d268557d8",
+    "title": "Inside Squid Games",
+    "author": "Laura Bennett",
+    "genre": "Non-fiction",
+    "publishedYear": "2013",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "99899c69-9d15-4cfd-ad5e-04084de6e8e1",
+    "title": "Squid Games: Rebellion",
+    "author": "Aiden Brooks",
+    "genre": "Fan Fiction",
+    "publishedYear": "2015",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "a126d601-2804-483b-ba62-cd0f54cfb432",
+    "title": "The Lost Horizon",
+    "author": "James Hilton",
+    "genre": "Fantasy",
+    "publishedYear": "1933",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "af7cb9ad-40bf-4a66-963c-336600f9dd1e",
+    "title": "Digital Fortress",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "publishedYear": "1998",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "1527b40d-46c5-4e5e-99a7-808cf1ad1d8b",
+    "title": "Echoes of Silence",
+    "author": "Maya Rivera",
+    "genre": "Romance",
+    "publishedYear": "2017",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  },
+  {
+    "id": "5b8a37d7-128d-4134-b087-0855eee40867",
+    "title": "Into the Quantum",
+    "author": "Dr. Neil Turner",
+    "genre": "Science",
+    "publishedYear": "2021",
+    "userId": "57066398-fbe7-478b-ba46-5a0abdd1893c"
+  }
+]

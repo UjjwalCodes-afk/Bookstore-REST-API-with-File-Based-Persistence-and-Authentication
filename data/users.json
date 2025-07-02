@@ -1,0 +1,12 @@
+[
+  {
+    "id": "338745a0-1670-47a3-a12b-ab100a41e986",
+    "email": "ujjwalnagpal3@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$YLWIUf5izrwr/hcE6kRxYg$HbaUQgS0+xskylT9gtNJiUcW56p0ytfRbcmH+17sxJs"
+  },
+  {
+    "id": "57066398-fbe7-478b-ba46-5a0abdd1893c",
+    "email": "mohit898@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$F3EPK03DjU3GKUbcZGFnyQ$Q2pRbwj5MGKYfoiPKZJCZ58QYR8Wbhhge+yBwkGQfrw"
+  }
+]
