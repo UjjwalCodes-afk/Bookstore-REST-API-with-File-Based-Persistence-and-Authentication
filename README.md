@@ -11,7 +11,7 @@ Middleware for logging, authentication, and error handling
 
 Setup Instructions
 1. Clone the Repository
-git clone [https://github.com/your-username/bookstore-api.git](https://github.com/UjjwalCodes-afk/Bookstore-REST-API-with-File-Based-Persistence-and-Authentication.git)
+git clone https://github.com/UjjwalCodes-afk/Bookstore-REST-API-with-File-Based-Persistence-and-Authentication.git
 2. Install Dependencies
 npm install
 3. Set Up Environment Variables
